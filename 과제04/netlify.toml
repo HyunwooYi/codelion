@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "가위바위보.html"
+status = 200
