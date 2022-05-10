@@ -1,0 +1,101 @@
+    .main-box {
+    /* display: table; */
+    width: 994px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid blue;
+}
+.point-box1 {
+    width: 494px;
+    height: 100px;
+    border: 1px solid #bababa;
+    text-align: center;
+    float: left;
+    background-color: black;
+}
+.point-box2 {
+    float:right;
+    width: 493px;
+    height: 100px;
+    border: 1px solid #bababa;
+    text-align: center;
+    background-color: black;
+}
+
+.second-main-box{
+    width: 994px;
+    height: 400px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid red;
+}
+
+.img-box1{
+    width: 490px;
+    height: 400px;
+    border: 1px solid #bababa;
+    float: left;
+    background-color: gray;
+}
+.img-box2{
+    width: 490px;
+    height: 400px;
+    border: 1px solid #bababa;
+    float: right;
+    background-color: gray;
+}
+
+
+#you_score {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+#com_score {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+#my_img{
+    margin-top: 40px;
+
+}
+#com_img{
+    margin-top: 40px;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+
+}
+#sissor{
+    width: 50px;
+    height: 50px;
+}
+#rock{
+    width: 50px;
+    height: 50px;
+}
+#paper{
+    width: 50px;
+    height: 50px;
+}
